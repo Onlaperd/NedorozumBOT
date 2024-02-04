@@ -1,4 +1,4 @@
-# NedorozumBOT
+# NedorozumBOT 🇺🇸
 
 This bot was created to enoy everybody
 Now this program in Beta-developing.
@@ -21,7 +21,7 @@ In plans:
 #PS
 This project created only to practice my programming skills, defenetly not for use.
 
-# NedorozumBOT
+# NedorozumBOT 🇺🇦
 
 Цей Бот створений щоб бісити всіх навколо.
 Зараз він перебуває у стані Бета розробки.
