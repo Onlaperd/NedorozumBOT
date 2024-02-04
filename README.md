@@ -15,7 +15,7 @@ In plans:
 # How to download?
 
 1. Download program from GitHub
-2. run file InstallNedorozumBOT.bat if you use Windows or InstallNedorozumBOT.sh if you use Linux/MacOS
+2. run file InstallNedorozumBOT.bat
 3. Thats it!
 
 #PS
@@ -38,7 +38,7 @@ This project created only to practice my programming skills, defenetly not for u
 # Як встановити?
 
 1. Завантажуємо програму з GitHub
-2. Запускаємо файл InstallNedorozumBOT.bat якщо у вас Windows або InstallNedorozumBOT.sh якщо у вас Linux/MacOS
+2. Запускаємо файл InstallNedorozumBOT.bat
 3. Готово!
 
 #PS
