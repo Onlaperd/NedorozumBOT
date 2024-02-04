@@ -1,6 +1,6 @@
 # NedorozumBOT 🇺🇸
 
-This bot was created to enoy everybody
+This bot was created to annoy everybody
 Now this program in Beta-developing.
 
 This program useless. At least you can try to troll someone with this program :)
