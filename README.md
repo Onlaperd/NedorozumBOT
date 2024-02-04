@@ -12,7 +12,7 @@ In plans:
 - Add support for English and other languages
 - expand the starting vocabulary
 
-#How to download?
+# How to download?
 
 1. Download program from GitHub
 2. run file InstallNedorozumBOT.bat if you use Windows or InstallNedorozumBOT.sh if you use Linux/MacOS
@@ -35,7 +35,7 @@ This project created only to practice my programming skills, defenetly not for u
 - Додати підтримку Англійської та інших мов
 - розширити стартовий лексикон
 
-#Як встановити?
+# Як встановити?
 
 1. Завантажуємо програму з GitHub
 2. Запускаємо файл InstallNedorozumBOT.bat якщо у вас Windows або InstallNedorozumBOT.sh якщо у вас Linux/MacOS
