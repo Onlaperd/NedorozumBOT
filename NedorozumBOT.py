@@ -33,7 +33,7 @@ def CreateAudio(TextToConvert, filename):
             obj.save(temp_file)
 
     except Exception as e:
-        print(f"[NedorozumBOT] Помилка під час обробки вашого брєду: {e}")
+        print(f"Error: {e}")
 
 def run():
     print("[NedorozumBOT] Привіт! Я - NedorozumBOT. Я створений щоб бісити всіх навколо")
@@ -125,6 +125,7 @@ def run():
                 TMP = Data.read()
                 TMP1 = TMP.split("\n")
                 HowMuchExistsAlready = len(TMP1)
+                print(HowMuchExistsAlready)
                 Data.close()
 
                 Data = open("PhrasesNames.txt", "a")
