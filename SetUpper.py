@@ -54,7 +54,7 @@ print("завершено 90%")
 CreateAudio("Привіт, чого тобі треба?", "HelloShort")
 CreateAudio("Привіт! Я - NedorozumBOT. Я створений щоб бісити всіх навколо", "hello")
 CreateAudio("ніскільки", "NoHowmuch")
-print("завершено 100%")
+print("завершено 99%")
 
 CreateFile = open("Phrases.txt", 'w')
 CreateFile.write(""" АААААААААААААААААААААААААААААААААААААААААА
