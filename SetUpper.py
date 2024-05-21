@@ -1,18 +1,6 @@
-from gtts import gTTS
-from playsound import playsound
 from os import system
+from AudioModule import CreateAudio
 
-def CreateAudio(TextToConvert, filename):
-    try:
-        # Create a temporary file in the current working directory
-        temp_file = filename + ".mp3"
-        
-        # Generate the audio file
-        obj = gTTS(text=TextToConvert, lang="uk", slow=False)
-        obj.save(temp_file)
-        
-    except Exception as e:
-        print(f"Error: {e}")
 
 print("Зачекайте будь-ласка, йде генерація необхідного контенту..")
 
