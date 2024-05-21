@@ -8,8 +8,8 @@ This program useless. At least you can try to troll someone with this program :)
 Supported languages: Ukrainian
 
 In plans:
-- Make a Web Interface
-- Add support for English and other languages
+- Make a Interface
+- Add support for English
 - expand the starting vocabulary
 
 # How to download?
@@ -31,8 +31,8 @@ This project created only to practice my programming skills, defenetly not for u
 Доступні мови: Українська
 
 в планах:
-- Зробити Веб-Інтерфейс
-- Додати підтримку Англійської та інших мов
+- Зробити Інтерфейс
+- Додати підтримку Англійської
 - розширити стартовий лексикон
 
 # Як встановити?
