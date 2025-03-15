@@ -1,45 +1,21 @@
 # NedorozumBOT 🇺🇸
 
 This bot was created to annoy everybody
-Now this program in Beta-developing.
 
-This program useless. At least you can try to troll someone with this program :)
+This program is useless. At least you can try to troll someone with this program :)
 
 Supported languages: Ukrainian
 
-In plans:
-- Make a Interface
+I am not going to support this app, but If I do, then I'll do the following:
+- Make an Interface
 - Add support for English
 - expand the starting vocabulary
 
 # How to download?
 
-1. Download program from GitHub
+1. Download the program from GitHub
 2. run file InstallNedorozumBOT.bat
-3. Thats it!
+3. That's it!
 
 #PS
-This project created only to practice my programming skills, defenetly not for use.
-
-# NedorozumBOT 🇺🇦
-
-Цей Бот створений щоб бісити всіх навколо.
-Зараз він перебуває у стані Бета розробки.
-
-Ця програма загалом є безкорисною. Максимум ви можете попробувати затролити когось нею :)
-
-Доступні мови: Українська
-
-в планах:
-- Зробити Інтерфейс
-- Додати підтримку Англійської
-- розширити стартовий лексикон
-
-# Як встановити?
-
-1. Завантажуємо програму з GitHub
-2. Запускаємо файл InstallNedorozumBOT.bat
-3. Готово!
-
-#PS
-Цей проект створений лише для того, щоб попрактикувати свої знання програмування, точно не для використання
+This project was created only to practice my programming skills, definitely not for use.
