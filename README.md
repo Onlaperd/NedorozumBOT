@@ -1,4 +1,4 @@
-# NedorozumBOT 🇺🇸
+# NedorozumBOT
 
 This bot was created to annoy everybody
 
