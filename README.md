@@ -18,4 +18,4 @@ I am not going to support this app, but If I do, then I'll do the following:
 3. That's it!
 
 #PS
-This project was created only to practice my programming skills, definitely not for use.
+This project was created just for fun, it's useless
